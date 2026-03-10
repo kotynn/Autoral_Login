@@ -16,8 +16,8 @@ Como atividade prática, foi proposta a criação de uma **tela de login**, com 
 
 Desenvolver uma **tela de login simples** utilizando:
 
-- HTML5
-- CSS3
+- HTML5.
+- CSS3.
 
 Ferramentas utilizadas:
 
